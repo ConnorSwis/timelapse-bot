@@ -1,0 +1,29 @@
+{
+  "name": "timelapse-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node deploy-commands.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorSwis/timelapse-bot.git"
+  },
+  "author": "ConnorSwis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorSwis/timelapse-bot/issues"
+  },
+  "homepage": "https://github.com/ConnorSwis/timelapse-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "node-cmd": "^5.0.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
