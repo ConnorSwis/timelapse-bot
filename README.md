@@ -1,6 +1,6 @@
 # Timelapse Bot
 
-This is a Discord bot that compiles images captured for timelapse from anywhere with an internet connection.
+This is a Discord bot that compiles images captured for timelapse from anywhere with an internet connection. This is my first project with [Discord.js](https://discord.js.org).
 
 
 ## Add your bot
@@ -8,7 +8,6 @@ Create a [Discord application](https://discord.com/developers) and create a link
 
 <img src="./pics/scope_and_perms.png" height="500">
 
----
 ## Installation
 
 1. Clone this repository:
